@@ -79,7 +79,7 @@ public class TesteCalculadora {
             break;
 
          default:
-                    System.out.println("Opção inválida!");
+                    System.out.println("opcao invalida");
 
     }
 }
